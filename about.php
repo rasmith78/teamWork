@@ -7,5 +7,6 @@
   </head>
   <body>
 
+    <?php require_once("lib/partials/navBar.php"); ?>
   </body>
 </html>
