@@ -1,0 +1,16 @@
+h1{
+  text-align: center;
+
+}
+p {
+  font-size: 17px;
+}
+.fa {
+  text-align: right;font-size: right;
+}
+.jumbotron {
+
+  background-size:cover;
+  text-align: center;
+  height: 480px;
+}
